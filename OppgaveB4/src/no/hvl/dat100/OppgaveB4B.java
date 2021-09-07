@@ -3,11 +3,10 @@ package no.hvl.dat100;
 import java.util.Scanner;
 
 
-
+//randomtestingline
 
 //Lage et program som beregner progresiv skatt på bruttolønn
 //Bruker skirver in sin bruttolønn, den blir beregnet og trinnskatten blir skrevet ut
-
 public class OppgaveB4B {
 
 	static double trinn1 = 184000;
